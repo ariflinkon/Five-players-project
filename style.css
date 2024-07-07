@@ -1,0 +1,7 @@
+.width-leftbar {
+    width: 70%;}    
+.width-rightbar {
+    width: 30%;}
+.width-leftbar, .width-rightbar {
+        float: left;
+        height: 100%;}
